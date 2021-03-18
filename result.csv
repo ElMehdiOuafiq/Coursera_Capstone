@@ -1,12 +1,12 @@
-Postal Code;Borough;Neighborhood;Latitude;Longitude
-M5N;Central Toronto;Roselawn;43.711695;-79.416936
-M4P;Central Toronto;Davisville North;43.712751;-79.390197
-M5P;Central Toronto;Forest Hill North & West, Forest Hill Road Park;43.696948;-79.411307
-M4R;Central Toronto;North Toronto West, Lawrence Park;43.715383;-79.405678
-M5R;Central Toronto;The Annex, North Midtown, Yorkville;43.672710;-79.405678
-...;...;...;...;...
-M6S;West Toronto;Runnymede, Swansea;43.651571;-79.484450
-M6C;York;Humewood-Cedarvale;43.693781;-79.428191
-M6E;York;Caledonia-Fairbanks;43.689026;-79.453512
-M6M;York;Del Ray, Mount Dennis, Keelsdale and Silverthorn;43.691116;-79.476013
-M9N;York;Weston;43.706876;-79.518188
+PostalCode,Borough,Neighborhood,Latitude,Longitude
+M5N,Central Toronto,Roselawn,43.711695,-79.416936
+M4P,Central Toronto,Davisville North,43.712751,-79.390197
+M5P,Central Toronto,Forest Hill North & West, Forest Hill Road Park,43.696948,-79.411307
+M4R,Central Toronto,North Toronto West, Lawrence Park,43.715383,-79.405678
+M5R,Central Toronto,The Annex, North Midtown, Yorkville,43.672710,-79.405678
+...,...,...,...,...
+M6S,West Toronto,Runnymede, Swansea,43.651571,-79.484450
+M6C,York,Humewood-Cedarvale,43.693781,-79.428191
+M6E,York,Caledonia-Fairbanks,43.689026,-79.453512
+M6M,York,Del Ray, Mount Dennis, Keelsdale and Silverthorn,43.691116,-79.476013
+M9N,York,Weston,43.706876,-79.518188
